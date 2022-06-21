@@ -1,0 +1,4 @@
+/* setup tailwind, incluindo cunjuntos de estilizações */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
